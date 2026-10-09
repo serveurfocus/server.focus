@@ -4,6 +4,6 @@
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./public", "binding": "ASSETS" },
   "kv_namespaces": [
-    { "binding": "DB", "id": "COLLEZ-ICI-LID-DU-KV" }
+    { "binding": "DB", "id": "2e7117328c6f486b88d4fdec09116bdf" }
   ]
 }
