@@ -1,0 +1,9 @@
+{
+  "name": "server-focus",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+  "kv_namespaces": [
+    { "binding": "DB", "id": "COLLEZ-ICI-LID-DU-KV" }
+  ]
+}
